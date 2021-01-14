@@ -1,0 +1,48 @@
+body{
+    font-family: 'Source Serif Pro', serif;
+}
+header{
+    background-color: lightyellow;
+}
+nav img{
+    width:300px;
+}
+.top-img img{
+    width: 400px;
+}
+h1, h4{
+    color: lightseagreen;
+}
+.head-text{
+    width: 300px;
+}
+.card{
+    border: 20px solid white;
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px grey;
+}
+.card2{
+    width: 400px;
+    border: none;
+    border-radius: none;
+    box-shadow: none;
+}
+.card img{
+    background-color: lightsteelblue;
+    border-radius: 20px;
+    padding: 20px;
+}
+.card-img{
+  height: 600px;
+}
+.card-img img{
+  height: 350px;
+}
+.card-footer{
+    background-color: white;
+}
+.almost img{
+    width: 150px;  
+    background-color: white;
+    
+}
